@@ -1,0 +1,46 @@
+.paginate{
+    display: flex;
+    justify-content: center;
+    padding-top: 4px; 
+    padding-left: 0;
+    margin: 20px 0;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}
+.form-container{
+    text-align: right;
+}
+.date-time{
+    color:white;
+}
+.navbar-dark{
+    color: white;
+}
+.content{
+    padding: 230px;
+}
+.nav-link{
+    color: white;
+}
+.btn{
+    padding: 60px;
+}
+.storeImage{
+    width: 75px;
+    height: 100px;
+}
+.product-image{
+    width: 100px;
+    height: 150px;
+}
+.paginate{
+    display: flex;
+    padding-top: 150px;
+    justify-content: center;
+}

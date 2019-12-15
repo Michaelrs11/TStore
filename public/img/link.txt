@@ -1,0 +1,35 @@
+shoes
+1) https://www.nike.com/id/t/zoom-freak-1-basketball-shoe-wxn8N0/BQ5422-400
+2) https://www.nike.com/id/t/air-jordan-1-mid-shoe-BpARGV/554724-058
+3) https://www.nike.com/id/t/lebron-17-basketball-shoe-JqmdXg/BQ3177-002
+4) https://www.nike.com/id/t/react-element-55-se-shoe-VLSWNF/BV1507-003
+5) https://www.nike.com/id/t/jordan-mars-270-shoe-Dv27m0/CD7070-008
+
+hat
+1) https://www.nike.com/id/t/aerobill-tailwind-running-cap-zzWzJC/BV2204-010
+2) https://www.nike.com/id/t/sportswear-classic99-foam-trucker-hat-F88j6w/CI3198-410
+3) https://www.nike.com/id/t/sportswear-aerobill-legacy91-printed-hat-Tf3Btk/CK1313-850
+4) https://www.nike.com/id/t/jordan-classic99-snapback-hat-NTBzfX/AV8439-010
+5) https://www.nike.com/id/t/heritage86-adjustable-hat-qZrx4v/AV8055-010
+
+shirt
+1) https://www.nike.com/id/t/dri-fit-basketball-t-shirt-MFVSMG/CD0968-100
+2) https://www.nike.com/id/t/dri-fit-training-t-shirt-5MnlTl/CD0089-010
+3) https://www.nike.com/id/t/short-sleeve-camo-training-top-xslRbw/AQ1201-395
+4) https://www.nike.com/id/t/houston-rockets-dri-fit-nba-t-shirt-r571nR/AT0416-657
+5) https://www.nike.com/id/t/dri-fit-camo-training-t-shirt-XDtSHr/CQ0794-460
+
+jeans
+1) https://www.bobobobo.com/pot-meets-pop-denim-super-thaistick-selvedge-pants-black-424799
+2) https://www.bobobobo.com/pot-meets-pop-denim-haze-pants-dark-blue-424798
+3) https://www.bobobobo.com/pot-meets-pop-denim-thaistick-pants-indigo-422202
+4) https://www.bobobobo.com/pot-meets-pop-denim-pipes-washed-pants-blue-422201
+5) https://www.bobobobo.com/pot-meets-pop-denim-thaistick-deep-blue-449299
+
+Jacket
+1) https://eigerindostore.com/eiger-eclipse-x28-jacket-black.html
+2) https://eigerindostore.com/eiger-shooter-light-weight-x-jacket-blue.html
+3) https://eigerindostore.com/eiger-eminence-jacket-dark-grey.html
+4) https://eigerindostore.com/eiger-finders-insulation-jacket-orange.html
+5) https://eigerindostore.com/eiger-straightline-2-0-jacket-black.html
+
